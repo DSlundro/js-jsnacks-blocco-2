@@ -2,7 +2,9 @@
 // e da queste vuole generare una falsa lista di invitati con nome e cognome.
 
 let nome    = ['Bianca', 'Fablo', 'Jesus', 'Maria', 'Pippo', 'Pluto']
+console.log(nome)
 let cognome = ['Falito', 'Escobar', 'de Nazaret', 'Magdalena', 'Pippa bene', 'in Lutto']
+console.log(cognome)
 
 
 for (let i = 0; i < nome.length; i++){

@@ -11,7 +11,7 @@ let i = 0;
 while(i < listaNumeri.length){
     let numero = listaNumeri[i]
 
-    if(i % 2 == 0){
+    if(i % 2 != 0){
         somma += Number(numero);
     }
 
@@ -19,5 +19,6 @@ while(i < listaNumeri.length){
 }
 
 console.log('La somma dei numeri in posizioni dispari è ' + somma)
+
 
 
