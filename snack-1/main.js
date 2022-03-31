@@ -17,7 +17,6 @@ for (let i = 0; i < 5; i++){
     somma += Number(numeroUtente);
     
 }
-
 console.log(somma)
  */
 
@@ -31,7 +30,6 @@ while (i < 5){
     somma += Number(numeroUtente);
     i++
 }
-
 console.log(somma)
 
 
