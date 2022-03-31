@@ -6,31 +6,32 @@
 
 let numeroUtente;
 let somma = 0;
+/* let i = 0;
 
 
 for (let i = 0; i < 5; i++){
 
     numeroUtente = prompt('Inserisci un numero');
-    console.log(numeroUtente[i]);
+    console.log(numeroUtente);
 
-    somma += Number(numeroUtente[i]);
-
+    somma += Number(numeroUtente);
+    
 }
 
 console.log(somma)
+ */
 
-
-/* //  while   
+ //  while   
 let i = 0;
 while (i < 5){
 
     numeroUtente = prompt('Inserisci un numero');
     console.log(numeroUtente);
 
-    somma += Number(numeroUtente[i]);
+    somma += Number(numeroUtente);
     i++
 }
 
 console.log(somma)
 
- */
+
